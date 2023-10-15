@@ -17,13 +17,9 @@ TP Développeur Web et Web Mobile
 &nbsp;&nbsp;
 ![img_php](./profile/img/php.svg)
 &nbsp;&nbsp;
-![img_bootstrap](./profile/img/bootstrap.svg)
-&nbsp;&nbsp;
 ![img_javascript](./profile/img/javascript.svg)
 &nbsp;&nbsp;
 ![img_mysql](./profile/img/mysql.svg)
-&nbsp;&nbsp;
-![img_wordpress](./profile/img/wordpress.svg)
 &nbsp;&nbsp;
 ![img_react](./profile/img/react.svg)
 &nbsp;&nbsp;
