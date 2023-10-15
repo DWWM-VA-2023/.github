@@ -29,54 +29,11 @@ TP Développeur Web et Web Mobile
 &nbsp;&nbsp;
 ![img_symfony](./profile/img/symfony.svg)
 
-## Front-end
+## Outils
 
-| xxx | xxx | xxx | xxx | xxx |
+|  | Github | xxx | xxx | xxx |
 | :----: | :----: | :----: | :----: | :----: |
-|  | techno | techno | techno | techno |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-
-
-## Back-end
-
-| xxx | xxx | xxx | xxx | xxx |
-| :----: | :----: | :----: | :----: | :----: |
-|  | techno | techno | techno | techno |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-
-## Autre
-
-| xxx | xxx | xxx | xxx | xxx |
-| :----: | :----: | :----: | :----: | :----: |
-|  | techno | techno | techno | techno |
+|  | ![img_git](./profile/img/git.svg) | techno | techno | techno |
 | xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
