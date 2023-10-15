@@ -31,7 +31,7 @@ TP Développeur Web et Web Mobile
 
 ## Front-end
 
-| Developers | GitHub | REAC | Tangram | About-me |
+| xxx | xxx | xxx | xxx | xxx |
 | :----: | :----: | :----: | :----: | :----: |
 |  | techno | techno | techno | techno |
 | xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
@@ -53,7 +53,7 @@ TP Développeur Web et Web Mobile
 
 ## Back-end
 
-| Developers | GitHub | REAC | Tangram | About-me |
+| xxx | xxx | xxx | xxx | xxx |
 | :----: | :----: | :----: | :----: | :----: |
 |  | techno | techno | techno | techno |
 | xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
@@ -74,7 +74,7 @@ TP Développeur Web et Web Mobile
 
 ## Autre
 
-| Developers | GitHub | REAC | Tangram | About-me |
+| xxx | xxx | xxx | xxx | xxx |
 | :----: | :----: | :----: | :----: | :----: |
 |  | techno | techno | techno | techno |
 | xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
